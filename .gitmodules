@@ -1,0 +1,6 @@
+[submodule "gelato-raas-op-ui-starter"]
+	path = gelato-raas-op-ui-starter
+	url = https://github.com/gelatodigital/gelato-raas-op-ui-starter
+[submodule "gelato-raas-op-starter"]
+	path = gelato-raas-op-starter
+	url = https://github.com/gelatodigital/gelato-raas-op-starter
